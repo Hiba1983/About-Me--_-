@@ -1,5 +1,5 @@
 Hi, 
-I'm a Software Engineer, With BS in Computer Science and MS in Web Technology (West Chester University of pennsylvania - Graduation Expected Fall 2021) with an experience of Full Stack - Web Developer.  ability to build a Web presence from concept, navigation, layout and programming to UX. Skilled at writing well-designed, testable and efficient code using current best practices in Web development.
+I'm a Software Engineer, With MS in Computer Science - Web Technology (West Chester University of pennsylvania - Graduation May 2022) with an experience of Full Stack Developer.  ability to build a Web presence from concept, navigation, layout and programming to UX. Skilled at writing well-designed, testable and efficient code using current best practices in Web development.
 Classes covered the following topic: 
    	Web development project.
    	Software Engineering.
